@@ -5,7 +5,18 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Titulo_de_primer_nivel
+      h1 Estrategias de mercado
+
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Direccionamiento estratégico
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 <i>E-commerce</i>
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.3 Gestión comercial
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.4 Plan de mercado
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.5 Costos y gastos
 
 </template>
 

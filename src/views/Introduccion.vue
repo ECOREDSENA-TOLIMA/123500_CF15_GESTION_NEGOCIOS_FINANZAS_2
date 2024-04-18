@@ -8,6 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
+    p.mb-5(data-aos="fade-left") El éxito corporativo en el mundo económico es siempre el propósito común que busca cualquier organización, sobre esta base las compañías, definen la razón de ser de su existencia, contextualizan sus propósitos y aspiraciones al tiempo que estructuran sobre estas, los objetivos y las metas a alcanzar en un periodo de tiempo determinado, por lo anterior le invito a ver el siguiente video que lo adentrará en la temática a tratar:
     
     figure.mb-5(data-aos="zoom-in")
       .video
