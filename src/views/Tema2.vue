@@ -13,13 +13,13 @@
       .col-lg-8.col-12.mb-3
         .cajon.color-primario.p-4.mb-4(data-aos="zoom-in")
           p(data-aos="fade-left") Se denominan estrategias de mercados  a todos aquellos procesos por medio de los cuales se busca estructurar acciones o tácticas que logren direccionar de manera eficiente los recursos de una compañía o ente económico en la creación de propuestas con las que se espera cumplir objetivos específicos, tales como: mejorar las ventas u obtener ventajas competitivas sostenibles.
-        p La elaboración de estas tiene por base los objetivos descritos anteriormente, para lo cual es necesario analizar el entorno de negocios, tanto interna como externamente, pues con esto se busca entender las diferentes variables que rodean el ambiente del negocio, posterior a esto, de acuerdo con los hallazgos encontrados y en concordancia con la misión de la empresa y las necesidades que se busca cubrir, se definen los objetivos de la organización para aprovechar ese entorno y minimizar los retos. 
+        p La elaboración de estas herramientas tiene como base los objetivos descritos anteriormente. Para lograrlo, es necesario analizar el entorno de negocios tanto interno como externo. Este análisis busca comprender las diferentes variables que influyen en el ambiente del negocio. Posteriormente, con base en los hallazgos encontrados y en concordancia con la misión de la empresa y las necesidades que busca cubrir, se definen los objetivos de la organización. El propósito de esto es aprovechar el entorno y minimizar los retos que puedan surgir.
 
     .row.mb-4
-      p(data-aos="fade-left") Por eso, para poder aplicar estos objetivos a la estructuración de un plan de mercadeo es necesario concretarlos y definirlos mediante el famoso acrónimo <i>“SMART”</i> que se explica a continuación:
+      p(data-aos="fade-left") Por eso, para poder aplicar estos objetivos a la estructuración de un plan de mercadeo es necesario concretarlos y definirlos mediante el famoso acrónimo “SMART” que se explica a continuación:
 
     .row.justify-content-center.mb-4
-      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
+      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1_")(data-aos="zoom-in")
         .row(titulo="Específicos <i>(Specific)</i> S")
           .col-md-6.mb-4.mb-md-0
             p Resalta el hecho de que los objetivos a logar deben ser específicos, es decir: concretos y tangibles.
@@ -70,13 +70,13 @@
             img(src='@/assets/curso/temas/tema2/7.svg', alt='Imagen decorativa')
             
 
-        .tarjeta.color-acento-contenido.p-4(x="34.9%" y="48.5%" numero="A")
+        .tarjeta.color-acento-contenido.p-4(x="13.9%" y="67.5%" numero="A")
           p Se debe hacer especial énfasis respecto a él o los productos y servicios que le ofrece la organización a sus clientes, su pertinencia o la necesidad que cubre, su ciclo de vida, sus ventajas frente a la competencia y la estrategia, para dar a conocer la marca, la eficiencia en el proceso de preparación, el  almacenaje y venta final del producto, todo esto enfocado a cubrir necesidades y motivaciones del cliente antes que los aspectos técnicos.
-        .tarjeta.color-acento-contenido.p-4(x="50%" y="21.1%" numero="B")
+        .tarjeta.color-acento-contenido.p-4(x="13.9%" y="25.1%" numero="B")
           p La definición del precio aplicado a los productos es una de las decisiones más complejas, puesto que en él intervienen varios aspectos a considerar,  tales como: los costos de producción, el poder adquisitivo de los potenciales clientes, la demanda o el posicionamiento del producto respecto a la competencia, las modalidades de pago o los posibles descuentos, entre otros muchos otros aspectos, en este sentido, el precio definido debe buscar un equilibrio basándose en ellos.
-        .tarjeta.color-acento-contenido.p-4(x="65.3%" y="48.7%" numero="C")
-          p Aquí se relacionan todas las actividades enfocadas a dar a conocer los productos y servicios a fin de llegar a una mayor cantidad de clientes, con lo que se espera aumentar las ventas, entre estas estrategias resaltan: la publicidad, las ventas puerta a puerta y el Marketing digital, etc.
-        .tarjeta.color-acento-contenido.p-4(x="50.1%" y="75.9%" numero="D")
+        .tarjeta.color-acento-contenido.p-4(x="86.3%" y="27.5%" numero="C")
+          p Aquí se relacionan todas las actividades enfocadas a dar a conocer los productos y servicios a fin de llegar a una mayor cantidad de clientes, con lo que se espera aumentar las ventas, entre estas estrategias resaltan: la publicidad, las ventas puerta a puerta y el <i>Marketing</i> digital, etc.
+        .tarjeta.color-acento-contenido.p-4(x="86.3%" y="76%" numero="D")
           p Agrupa los diferentes medios o canales por medio de los cuales llegan los productos y servicios a los consumidores, este punto abarca aspectos, como: el acceso el almacenamiento, la logística de entrega y los inventarios, además del grado de satisfacción del cliente.
     
       figure.movil(data-aos="zoom-in")
@@ -91,13 +91,31 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/9.png' alt='Imagen decorativa')
       .col-lg-7.col-12.mb-3
-        p(data-aos="fade-left") Toda organización o incluso las áreas dentro de las organizaciones, como el área de mercadeo, son creadas con el objetivo de cumplir con un propósito, esta cualidad es inherente y común para cualquier institución indistintamente del sector en que se ocupe, puesto que es este objetivo el que justificará y dará sentido al trabajo de directivos, encargados y colaboradores.
-        p(data-aos="fade-left") Pero no basta solo con definir este propósito y plasmarlo en un cuadro que luzca bien en una pared, es indispensable que todas las organizaciones desarrollen estrategias enfocadas a convertir dicho propósito en un proceso bien estructurado que integre de manera armónica a todos los elementos que componen la organización.
-        figure(data-aos="zoom-in")
+        p(data-aos="fade-left") Cada organización, e incluso las áreas dentro de estas, como el departamento de mercadeo, se establecen con un propósito específico. Esta característica es inherente y compartida por cualquier institución, independientemente del sector en el que opere. Es este propósito el que justifica y otorga sentido al trabajo de directivos, responsables y colaboradores dentro de la organización.todos los elementos que componen la organización.
+        p(data-aos="fade-left") Sin embargo, no es suficiente simplemente definir este propósito y exhibirlo en un cuadro que luzca bien en una pared. Es imprescindible que todas las organizaciones desarrollen estrategias dirigidas a convertir dicho propósito en un proceso bien estructurado. Este proceso debe integrar de manera armónica a todos los elementos que componen la organización.
+        //-figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/10.svg' alt='Imagen decorativa')
+        .row.mb-5
+          .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color: #E1EFE3")
+            .row.justify-content-center.mb-3
+              .col-4
+                img(src='@/assets/curso/temas/tema2/70.svg' alt='AvatarTop')
+            h4.text-center Objetivos
+
+          .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color: #DBE5F3")
+            .row.justify-content-center.mb-3
+              .col-4
+                img(src='@/assets/curso/temas/tema2/71.svg' alt='AvatarTop')
+            h4.text-center Estrategias
+
+          .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color: #E1EFE3")
+            .row.justify-content-center.mb-3
+              .col-4
+                img(src='@/assets/curso/temas/tema2/72.svg' alt='AvatarTop')
+            h4.text-center Proceso estructurado
 
     .row.mb-4
-      p(data-aos="fade-left") En este sentido, se entiende la importancia tanto de tener claros los objetivos, como el de articular de manera eficiente a todos los involucrados a conseguir dichos objetivos con los que la institución podrá prever y afrontar cualquier situación que amenace su supervivencia, así como le permitirá adaptarse a los imprevistos y evolucionar.
+      p(data-aos="fade-left") En este sentido, se reconoce la importancia tanto de tener objetivos claros como la de articular de manera eficiente a todos los involucrados para alcanzar dichos objetivos. Esta integración permite a la institución prever y afrontar cualquier situación que amenace su supervivencia, así como adaptarse a los imprevistos y evolucionar.
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
@@ -117,8 +135,8 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/12.png' alt='Imagen decorativa')
       .col-lg-7.col-8.mb-3
-        .titulo-quinto.color-primario
-          h4 A. La actitud estratégica
+        .h4.mb-4(data-aos="zoom-down-right")
+          span.titulo-herramientas(style="color: #0C5E46")  A. La actitud estratégica
         .cajon.color-primario.p-4.mb-4(data-aos="zoom-in")
           p Mediante esta se garantiza la adaptabilidad de la postura de la dirección de la compañía, en este sentido, el centro de atención organizacional debe ir enfocado desde el ámbito interno de la empresa y la eficiencia, hasta su relación con el entorno y la eficacia.
         p A fin de aprovechar todas las oportunidades, la dirección estratégica debe concentrarse en la efectividad; es decir, en lograr el cumplimiento de los objetivos estratégicos con eficiencia y eficacia, por lo que se deben tener en cuenta los siguientes aspectos: 
@@ -142,13 +160,13 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          .titulo-quinto.color-primario
-            h4 B. El pensamiento estratégico
-          p Permite explorar los diferentes desafíos que podría afrontar la organización, tanto los previsibles como los imprevisibles y a su vez incorpora estas consideraciones a la misión, visión, los valores y las estrategias a definir, por lo que estar de acuerdo sobre estos elementos es esencial para lograr una planeación efectiva.
+          .h4.mb-4(data-aos="zoom-down-right")
+            span.titulo-herramientas(style="color: #0C5E46")  B. El pensamiento estratégico
+          p Facilita la exploración de los diversos desafíos que la organización podría enfrentar, tanto los previsibles como los imprevisibles. Además, permite incorporar estas consideraciones a la misión, visión, valores y estrategias a definir. Por lo tanto, estar de acuerdo sobre estos elementos es esencial para lograr una planificación efectiva.
     
     .row.justify-content-center.mb-4
-      .titulo-quinto.color-primario
-        h4 C. La intención estratégica
+      .h4.mb-4(data-aos="zoom-down-right")
+        span.titulo-herramientas(style="color: #0C5E46") h4 C. La intención estratégica
 
     .row.mb-4
       p(data-aos="fade-left") Esta hace énfasis a la intención de los gerentes de la corporación a comprometerse en todos los niveles para encabezar un sistema directivo con características que contribuyan a mantener y fortalecer el pensamiento estratégico y la actitud estratégica; del mismo modo, el direccionamiento estratégico basa su estructura en la definición de cuatro componentes principales que son:
@@ -228,7 +246,7 @@
         SlyderB.mb-5.p-4(:datos="datosSlyder")
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 <i>E-commerce</i>
+      h2 2.2 <i><i>E-commerce</i></i>
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-3
         figure(data-aos="zoom-in")
@@ -237,16 +255,16 @@
         p(data-aos="fade-left") Con el desarrollo de las nuevas tecnologías de la información, resulta incuestionable evidenciar la manera como estos avances han influido en la vida del hombre, llegando incluso a condicionar aspectos tan relevantes para este, como la manera en que se relaciona, se comunica y satisface sus necesidades básicas como comprar.
         p(data-aos="fade-left") Todas estas condiciones han creado un nuevo universo digital de interacciones que ofrecen nuevas posibilidades a las que las organizaciones no son ajenas, puesto que, conociendo las herramientas adecuadas, les pueden significar hacerse acreedoras de importantes ventajas comerciales y competitivas. 
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Desde este contexto, se habla del <i>E-commerce</i> para referirse al conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia ejecutar operaciones de compra, venta y distribuciones de bienes y servicios, haciendo uso de redes computacionales, específicamente la internet.  
+          p Desde este contexto, se habla del <i><i>E-commerce</i></i> para referirse al conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia ejecutar operaciones de compra, venta y distribuciones de bienes y servicios, haciendo uso de redes computacionales, específicamente la internet.  
     
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .tarjeta.color-primario.p-4.mb-4(data-aos="zoom-in")
           .row.justify-content-center 
-            .col-lg-3.col-8.mb-3
-              figure(data-aos="zoom-in")
-                img(src='@/assets/curso/temas/tema2/24.svg' alt='Imagen decorativa')
-            .col-lg-9.col-12.mb-3
+            //- .col-lg-3.col-8.mb-3
+            //-   figure(data-aos="zoom-in")
+            //-     img(src='@/assets/curso/temas/tema2/24.svg' alt='Imagen decorativa')
+            .col-lg-10.col-12.mb-3
               p(data-aos="fade-left") Esta modalidad de hacer negocios representa infinitas posibilidades dadas las condiciones sobre las que se desarrollan dichas operaciones, pues por su versatilidad puede ejecutarse a través de una gran variedad de fuentes y aplicaciones, tales como:
               ul.lista-ul--color.lista-ul
                 li 
@@ -263,7 +281,7 @@
                   | Protocolo de transferencia de datos (FTP).
                 li 
                   i.fas.fa-folder
-                  | Servicios <i>web</i>.
+                  | Servicios web.
         .row.justify-content-center.align-items-center
           .col-lg-5.col-8.mb-3
             figure(data-aos="zoom-in")
@@ -288,7 +306,7 @@
                 | Sistemas de recolección de datos para el estudio de mercados.
     
     .row.mb-4
-      p(data-aos="fade-left") Por esto el E-commerce implica desde ordenar contenidos digitales para consumo inmediato,  los cuales son descargados a la computadora del consumidor, hasta adquirir bienes y servicios convencionales, pasando por meta servicios que serían los que facilitan otro tipo de servicios.
+      p(data-aos="fade-left") Por esto el <i>E-commerce</i> implica desde ordenar contenidos digitales para consumo inmediato,  los cuales son descargados a la computadora del consumidor, hasta adquirir bienes y servicios convencionales, pasando por meta servicios que serían los que facilitan otro tipo de servicios.
       p(data-aos="fade-left") Por lo que se puede observar en estos procesos es muy importante el intercambio de datos financieros, para facilitar negocios nacionales e internacionales, en estos casos, es importante garantizar la integridad y seguridad de los datos almacenados. 
     
     .row.justify-content-center.mb-4
@@ -300,10 +318,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Este tipo de negocio ha crecido tanto en los dos últimos años que se pueden encontrar personas que venden productos artesanales desde su casa, a través de plataformas de ventas hasta gigantes digitales que ofrecen gran variedad de productos al menudeo.
+                  p El crecimiento de este tipo de negocios ha sido notable en los últimos dos años. Desde personas que venden productos artesanales desde sus hogares a través de plataformas de venta hasta gigantes digitales que ofrecen una amplia variedad de productos al por menor, el mercado ha experimentado una expansión significativa.
     
     .row.mb-4
-      p(data-aos="fade-left") Pero dada la naturaleza cambiante del ambiente digital , los negocios deben actualizar sus formas de mercado para atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago y los canales que facilitan la interacción entre cliente y vendedor, todo esto lleva al desarrollo de diferentes modelos de E-commerce, entre los que se destacan los siguientes:
+      p(data-aos="fade-left") Pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus formas de mercado para atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago y los canales que facilitan la interacción entre cliente y vendedor, todo esto lleva al desarrollo de diferentes modelos de <i>E-commerce</i>, entre los que se destacan los siguientes:
 
     .row.justify-content-center.mb-4
       LineaTiempoE.color-acento-contenido(data-aos="zoom-in")
@@ -321,7 +339,7 @@
               img(src='@/assets/curso/temas/tema2/28.png', alt='Imagen decorativa')
               figcaption Empresa a empresa
           .col-lg-6.mb-4.mb-lg-0
-            p Bajo este modelo, una empresa compra bienes o servicios de otra empresa. Las ventas en línea de este tipo tienden a ser más complejas que otras formas de eCommerce, ya que ofrecen productos complejos de vender.
+            p Bajo este modelo, una empresa compra bienes o servicios de otra empresa. Las ventas en línea de este tipo tienden a ser más complejas que otras formas de <i>eCommerce</i>, ya que ofrecen productos complejos de vender.
         
         .row(titulo="Empresa a consumidor (B2C)")
           .col-lg-6.mb-4.mb-lg-0
@@ -406,7 +424,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Como parte de su aprendizaje autónomo le invito a revisar el documento ¨Impacto del personal de contacto y satisfacción del cliente en <i>E-commerce</i>¨ el cual se encuentra ubicado en la sección materiales complementarios, con el fin de puntualizar algunas pautas importantes en un tema clave en la gestión comercial del presente.
+          p Como parte de su aprendizaje autónomo le invito a revisar el documento ¨Impacto del personal de contacto y satisfacción del cliente en <i><i>E-commerce</i></i>¨ el cual se encuentra ubicado en la sección materiales complementarios, con el fin de puntualizar algunas pautas importantes en un tema clave en la gestión comercial del presente.
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Gestión comercial
@@ -422,7 +440,7 @@
           .col-lg-10.col-12
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p Pero la realidad es que esto, aunque sigue siendo muy importante, no es suficiente, pues ofrecer un producto económico y de gran calidad no basta para garantizar el éxito comercial. Hoy las empresas están frente a una realidad comercial digitalizada y por tanto globalizada, que ha modificado en gran medida la forma como clientes y proveedores se relacionan, ya no es tan simple como el hecho de que alguien necesita un producto y se dirige a la tienda más cercana que le ofrezca calidad y precio. 
+                p Sin embargo, ofrecer un producto económico y de alta calidad, aunque sigue siendo crucial, ya no es suficiente para garantizar el éxito comercial. En la actualidad, las empresas se enfrentan a una realidad comercial digitalizada y globalizada que ha transformado profundamente la forma en que los clientes y los proveedores interactúan. Ya no es tan sencillo como antes, donde alguien simplemente necesitaba un producto y se dirigía a la tienda más cercana que ofreciera calidad y precio.
 
     .row.justify-content-center.mb-4
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
@@ -445,7 +463,7 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/40.svg' alt='Imagen decorativa')
             .col-lg-8.col-12.mb-3
-              p(data-aos="fade-left") En este sentido, se hace referencia a la gestión comercial como el conjunto de técnicas por medio de las cuales las empresas buscan desarrollar las mejores estrategias que permitan el aumento en las ventas, posicionarse en el mercado y garanticen una buena experiencia a la hora de relacionarse con el cliente.
+              p(data-aos="fade-left") En este contexto, la gestión comercial se define como el conjunto de técnicas mediante las cuales las empresas buscan desarrollar las mejores estrategias para aumentar las ventas, posicionarse en el mercado y garantizar una experiencia satisfactoria al relacionarse con el cliente.
               p(data-aos="fade-left") A pesar de esto, el proceso por el cual la gestión pretende llegar a estos dos objetivos es mucho más complejo, puesto que, desde el ámbito de la gestión comercial, se abordan las relaciones clientes – empresa con un enfoque más profundo, compuesto por aspectos que representan diferentes puntos dentro de esta relación, tales como, las cualidades del producto y de cómo este satisface las necesidades del cliente, la competitividad del precio, el lugar y el modo como se promocionan.
     
     .row.mb-4
@@ -458,20 +476,20 @@
             img(src='@/assets/curso/temas/tema2/41.svg', alt='Imagen decorativa')
             
 
-        .tarjeta.color-acento-contenido.p-4(x="20.8%" y="64.8%" numero="+")
+        .tarjeta.color-acento-contenido.p-4(x="20.8%" y="80.6%" numero="+")
           p Una vez está definida la estrategia de funcionamiento empresarial (direccionamiento estratégico) dentro del proceso de gestión comercial, la administración comercial se encarga de planificar cada una de las actividades basadas en el DOFA con las que se pretenden alcanzar los objetivos mencionados.
-        .tarjeta.color-acento-contenido.p-4(x="28.8%" y="36.9%" numero="+")
+        .tarjeta.color-acento-contenido.p-4(x="28.8%" y="31.2%" numero="+")
           p En este punto se defienden claramente cuáles áreas dentro del equipo de gestión comercial van a desarrollar que actividades, nombrando los responsables de ejecutar cada actividad, etapa que es de vital importancia puesto que, sin organización, estas propuestas no acercarían a la organización a los objetivos propuestos.
-        .tarjeta.color-acento-contenido.p-4(x="62.2%" y="36.9%" numero="+")
+        .tarjeta.color-acento-contenido.p-4(x="62.2%" y="31.1%" numero="+")
           p Es el momento en el que se supervisa el cumplimiento del desarrollo de las actividades asignadas a las personas que fueron designadas como responsables del cumplimiento de estas labores de manera eficiente, si surgen problemas, el equipo deberá encontrar soluciones oportunas y satisfactorias. Es importante resaltar que para que una empresa prospere es necesario que todos sus colaboradores trabajen en equipo.
-        .tarjeta.color-acento-contenido.p-4(x="70.6%" y="65.3%" numero="+")
+        .tarjeta.color-acento-contenido.p-4(x="70.6%" y="81.3%" numero="+")
           p La ejecución de esta etapa se apoya en el análisis de los datos estadísticos ofrecidos por la ejecución de las actividades propuestas, los cuales permiten reconocer posibles errores en la estrategia comercial e identificar las que deban ser ajustadas para garantizar el alcance de los objetivos propuestos.
     
       figure.movil(data-aos="zoom-in")
         img(src='@/assets/curso/temas/tema2/42.svg' alt='Imagen decorativa')
     
     .row.mb-4
-      p(data-aos="fade-left") Dada la claridad de estos ejes sobre los que se debe construir la estrategia comercial, los administradores de la gestión comercial deben proceder a estructurar su plan de trabajo, tarea en la que se debe integrar áreas de la organización a las que se asignan aspectos específicos sobre los cuales deben desarrollar actividades que, aunque separadas, su articulación es importante para estructurar el plan de gestión comercial. Dichas áreas deben enfocarse en los siguientes puntos descritos en el video: 
+      p(data-aos="fade-left") Dada la claridad de los ejes sobre los cuales debe construirse la estrategia comercial, los administradores de la gestión comercial deben proceder a estructurar su plan de trabajo. Esta tarea implica integrar áreas de la organización a las que se asignan aspectos específicos sobre los cuales deben desarrollar actividades que, aunque separadas, su articulación es importante para estructurar el plan de gestión comercial. Dichas áreas deben enfocarse en los siguientes puntos descritos en el video:
     
     .row.mb-4
       figure(data-aos="zoom-in")
@@ -512,7 +530,7 @@
       h2 2.4 Plan de mercado
     
     .row.mb-4
-      p(data-aos="fade-left") Como puede ver toda organización tiene la necesidad inherente de adaptarse a las condiciones cambiantes de los mercados, por lo que surgen cuestionamientos respecto a cuáles serán las mejores estrategias a ejecutar para lograr los objetivos propuestos de la organización en el ámbito comercial. En este contexto, son las áreas encargadas de la gestión comercial quienes dedican sus esfuerzos en la estructuración de planes que acojan estas necesidades, para lograrlo, por lo que es necesario contar con una hoja de ruta que sirva como referencia a la hora de planificar todas estas acciones. 
+      p(data-aos="fade-left") Como puede notarse, toda organización enfrenta la necesidad inherente de adaptarse a las cambiantes condiciones del mercado. Esto genera preguntas sobre cuáles serán las mejores estrategias para lograr los objetivos comerciales propuestos. En este contexto, las áreas encargadas de la gestión comercial dedican sus esfuerzos a la elaboración de planes que aborden estas necesidades. Para lograrlo, es fundamental contar con una hoja de ruta que sirva como guía al planificar todas estas acciones.
 
     .row.justify-content-center.mb-4
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
@@ -525,7 +543,7 @@
             br 
     
     .row.mb-4
-      p(data-aos="fade-left") Por lo anterior, toda compañía necesita tener claridad respecto a sus condiciones y su posición frente al ambiente empresarial y de mercado sobre el que desarrolla su actividad, porque es de allí de donde se parte para entender la necesidad de que cada empresa con el fin de elaborar un plan de mercado exclusivo que se adapte a la medida de sus necesidades y sus condiciones. 
+      p(data-aos="fade-left") Por lo anterior, toda compañía necesita tener claridad respecto a sus condiciones y su posición frente al ambiente empresarial y de mercado en el que desarrolla su actividad. Es a partir de esta comprensión que surge la necesidad de que cada empresa elabore un plan de <i>marketing</i> exclusivo que se adapte a sus necesidades y condiciones específicas.
 
     .row.justify-content-center.mb-4
       .col-lg-7.col-12.mb-3
@@ -536,11 +554,10 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/46.png' alt='Imagen decorativa')
 
-    .row.justify-content-center.mb-4
-      .titulo-quinto.color-primario
-        h4 Etapa 1 <i>Marketing</i> Analítico
-      p(data-aos="fade-left") En esta etapa se busca conocer la situación actual de la empresa respecto a las condiciones del mercado, (competencia y estado socioeconómico) esto ayudará a establecer debilidades, amenazas fortalezas y oportunidades frente a las condiciones mencionadas.
-      p(data-aos="fade-left") Para lograrlo, es necesario hacer un estudio con el que se puedan identificar aspectos que impactan la empresa, como los que a continuación se mencionan:
+    .h4.mb-4(data-aos="zoom-down-right")
+      span.titulo-herramientas(style="color: #0C5E46") Etapa 1 <i>Marketing</i> analítico
+    p(data-aos="fade-left") En esta etapa se busca conocer la situación actual de la empresa respecto a las condiciones del mercado, (competencia y estado socioeconómico) esto ayudará a establecer debilidades, amenazas fortalezas y oportunidades frente a las condiciones mencionadas.
+    p(data-aos="fade-left") Para lograrlo, es necesario hacer un estudio con el que se puedan identificar aspectos que impactan la empresa, como los que a continuación se mencionan:
 
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
@@ -562,7 +579,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h3 Análisis de los consumidores
-              p Examina las condiciones generales de los consumidores de la empresa, enfocándose en aspectos como: demografía, volumen global y potencial y preferencias, con lo que se busca establecer un perfil general del tipo de comprador (buyer) al que se dirige la propuesta de mercado.
+              p Examina las condiciones generales de los consumidores de la empresa, enfocándose en aspectos como: demografía, volumen global y potencial y preferencias, con lo que se busca establecer un perfil general del tipo de comprador (<i>buyer</i>) al que se dirige la propuesta de mercado.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/49.png', alt='Imagen decorativa')
@@ -614,11 +631,10 @@
               p Reúne los hallazgos de los análisis previos a fin de identificar y catalogar aspectos importantes que impactan directa e indirectamente la gestión de la empresa.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/56.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/56.svg', alt='Imagen decorativa')
 
-    .row.justify-content-center.mb-4
-      .titulo-quinto.color-primario
-        h4 Etapa 2 Marketing Estratégico Paso a Paso
+    .h4.mb-4(data-aos="zoom-down-right")
+      span.titulo-herramientas(style="color: #0C5E46") Etapa 2 <i>Marketing</i> Estratégico Paso a Paso
 
     .row.justify-content-center.mb-4
       .tarjeta.tarjeta--azul.p-4.mb-5
@@ -641,7 +657,7 @@
           
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/58.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/58.svg', alt='Imagen decorativa')
 
           .row
             .col-md-6.mb-4.mb-md-0.p-4
@@ -652,9 +668,8 @@
               figure
                 img(src='@/assets/curso/temas/tema2/59.png', alt='Imagen decorativa')
 
-    .row.justify-content-center.mb-4
-      .titulo-quinto.color-primario
-        h4 Etapa 3 Marketing Operativo Paso a Paso
+    .h4.mb-4(data-aos="zoom-down-right")
+      span.titulo-herramientas(style="color: #0C5E46") Etapa 3 <i>Marketing</i> Operativo Paso a Paso
 
     .row.mb-4
       p(data-aos="fade-left") Se apoya en los resultados de las dos primeras etapas para definir las políticas que condicionarán los atributos dentro del proceso de implementación del plan de mercadeo, las cuales se centran en los siguientes puntos:
@@ -681,7 +696,7 @@
       p(data-aos="fade-left") Entre los canales más usados para este último propósito se encuentra el <i>marketing</i> digital, como <i>marketing</i> <i>web</i>, estrategias SEM y SEO y las estrategias <i>social</i> <i>media</i> y Mobile, como por ejemplo el uso de redes sociales; para lo anterior se deben tener en cuenta los siguientes elementos:
 
     .row.justify-content-center.mb-4
-      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
+      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1_")(data-aos="zoom-in")
         .row(titulo="Tiempos de ejecución y responsables")
           .col-md-6.mb-4.mb-md-0
             p En este punto se definen los cronogramas para permitir la ejecución del plan, así como los responsables de la ejecución con el fin de verificar el cumplimiento de los propósitos inicialmente.
@@ -719,13 +734,13 @@
 
     .row.justify-content-center.mb-5
       .col-12
-        //- .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-        //-   h5 Figura 1.
-        //-   span <i>Marketing Mix - 4 P´s</i> 
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 3.
+          span <i>Estructura de un plan de mercado</i> 
         figure.desktop(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/63.svg' alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/63.svg' alt='Figura que hace relación de la distribución de un plan de mercado, la cual parte de los tipos de marketing: analítico, estratégico y operativo.')
         figure.movil(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/64.svg' alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/64.svg' alt='Figura que hace relación de la distribución de un plan de mercado, la cual parte de los tipos de marketing: analítico, estratégico y operativo.')
 
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5 Costos y gastos
@@ -766,7 +781,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-7.col-12.mb-3
-        p(data-aos="fade-left") En consecuencia, se puede concluir que, si bien es cierto que la existencia de costos y gastos dentro del ejercicio de la gestión comercial es necesaria para garantizar su funcionamiento, estos se diferencian: en el sentido que los costos, intervienen directamente en el desarrollo de las actividades estratégicas definidas en el plan de mercadeo, lo que las hace fundamentales para garantizar su ejecución, en cambio, la existencia o no de los gastos no influye en la ejecución o éxito de estas, así pues, en el caso de las estrategias de marketing es necesaria la adquisición de material publicitario, por lo que si su objetivo es llegar a más clientes y dar a conocer las ventajas competitivas del producto debe invertir recursos para lograr el objetivo, por otro lado, la existencia o no de colaboradores asignados a servicios generales, no influye en el éxito de esta estrategia. 
+        p(data-aos="fade-left") En consecuencia, se puede concluir que, si bien es cierto que la existencia de costos y gastos dentro del ejercicio de la gestión comercial es necesaria para garantizar su funcionamiento, estos se diferencian: en el sentido que los costos, intervienen directamente en el desarrollo de las actividades estratégicas definidas en el plan de mercadeo, lo que las hace fundamentales para garantizar su ejecución, en cambio, la existencia o no de los gastos no influye en la ejecución o éxito de estas, así pues, en el caso de las estrategias de <i>marketing</i> es necesaria la adquisición de material publicitario, por lo que si su objetivo es llegar a más clientes y dar a conocer las ventajas competitivas del producto debe invertir recursos para lograr el objetivo, por otro lado, la existencia o no de colaboradores asignados a servicios generales, no influye en el éxito de esta estrategia. 
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
           p En adición a lo anterior, resulta imperativo señalar, dados los elementos desarrollados en este apartado, la estrecha relación existente entre la correcta identificación, definición y administración de todos los elementos que participan dentro del análisis de la realidad comercial de las empresas, su dependencia con su situación tanto interna como externa y la determinación de sus objetivos y expectativas, con las estrategias definidas de mercado que resulten eficientes.
       .col-lg-5.col-8.mb-3

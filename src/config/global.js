@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Mercadeo estratégico y costeo de la gestión comercial',
     descripcionCurso:
-      'Parte del éxito empresarial de cualquier entidad económica, radica fundamentalmente en una correcta estructuración de sus procesos, tanto productivos como administrativos. Por tanto, conocer e identificar cada uno de los elementos que componen este proceso garantizarán el alcance de los objetivos que la organización se haya propuesto en el horizonte temporal.',
+      'El éxito empresarial de cualquier entidad económica depende en gran medida de la adecuada estructuración de sus procesos, tanto productivos como administrativos. Por consiguiente, es crucial comprender e identificar cada uno de los componentes de este proceso para asegurar el logro de los objetivos establecidos por la organización en el futuro.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

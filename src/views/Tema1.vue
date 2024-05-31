@@ -12,7 +12,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/1.png' alt='Imagen decorativa')
       .col-lg-9.col-12.mb-3
-        p(data-aos="fade-left") Dada la exponencial evolución de los modos como el ser humano a través del tiempo ha logrado intercomunicarse, disminuyendo el tiempo y la forma como lo hace, surge la necesidad de aprovechar la cantidad de datos que estos medios de comunicación reúnen, puesto que representan una radiografía de la realidad social de la población y sus necesidades.
+        p(data-aos="fade-left") Con la evolución exponencial en la forma en que los seres humanos se comunican a lo largo del tiempo, reduciendo tanto el tiempo como la forma en que lo hacen, surge la necesidad de aprovechar la gran cantidad de datos recopilados por estos medios de comunicación. Estos datos representan una instantánea de la realidad social de la población y sus necesidades, lo que resalta la importancia de su aprovechamiento.
         p(data-aos="fade-left") En este sentido nace la exigencia de los mercados, de construir herramientas o estrategias que les permitan aprovechar al máximo las ventajas comerciales que estos paquetes de información les pueden ofrecer, esperando con esto clarificar el panorama comercial del sector sobre el que esperan desarrollar cualquier actividad económica.
 
     .row.justify-content-center.mb-4
@@ -21,22 +21,21 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/2.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 En este contexto, se llama análisis  de la información al proceso por el cual se reúnen, clasifican y codifican un grupo de datos, a fin de establecer criterios que permitan obtener de estos, información que pueda ser convertida en datos de utilidad y provecho, que posteriormente serán empleados como elementos de juicio para la toma de decisiones dentro de las organizaciones.
-          p.mb-0 El objetivo primordial de dicho proceso será la obtención final de las ideas que sean importantes, generadas por distintas fuentes y que a su vez logren expresar el comportamiento de ciertas situaciones de la manera más fiel a la realidad.
+          p.mb-0 En este contexto, se denomina análisis de la información al proceso mediante el cual se recopilan, clasifican y codifican datos con el propósito de establecer criterios que permitan extraer información útil y beneficiosa. Esta información posteriormente se utiliza como base para la toma de decisiones dentro de las organizaciones. El objetivo principal de este proceso es obtener ideas relevantes, provenientes de diversas fuentes, que reflejen con fidelidad el comportamiento de ciertas situaciones.
             br
             br
 
     .row.justify-content-center.mb-4
-      p(data-aos="fade-left") Por lo anterior, es importante resaltar que, dicha información, de acuerdo con el contexto que genera la necesidad del análisis, es obtenida a partir de ciertos procesos que cuentan con la capacidad de emplear métodos y operaciones que permiten obtener las cualidades más importantes de las secundarias.
+      p(data-aos="fade-left") Por lo tanto, es crucial destacar que esta información, en consonancia con el contexto que motiva la necesidad de análisis, se obtiene a través de procesos que emplean métodos y operaciones para discernir las cualidades más relevantes de las secundarias.
 
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .row.justify-content-center
           .col-lg-8.col-12.mb-4
-            p(data-aos="fade-left") En síntesis, lo que se busca es lograr una interpretación de la información que pueda ser transmitida de forma estructurada en datos simples, que reflejarán la realidad de la situación fuente de la información, respecto a lo que se conoce, lo que no se conoce y las diversas opciones que podrían generarse a futuro.
+            p(data-aos="fade-left") En resumen, el objetivo es interpretar la información de manera que pueda ser comunicada de forma estructurada en datos simples. Estos datos reflejarán la realidad de la situación que es fuente de la información, incluyendo lo que se sabe, lo que no se sabe y las diversas opciones que podrían surgir en el futuro.
             .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
               p Dado lo anterior, la estadística como rama de la ciencia, se constituye en la herramienta óptima por excelencia en este tipo de análisis, pues se encarga de la planificación y aplicación de métodos direccionados a la recolección, organización, análisis  e interpretación de los resultados obtenidos a partir del tratamiento de datos.
-            p(data-aos="fade-left") En consecuencia, los procesos estadísticos se constituyen en herramientas fundamentales para el análisis de la información, dado que estos ayudan a resolver problemas en la descripción de los datos, análisis de las muestras, contrastación de hipótesis y evaluación de las predicciones.
+            p(data-aos="fade-left") En consecuencia, los procesos estadísticos se convierten en herramientas fundamentales para el análisis de la información. Estos procesos ayudan a resolver problemas relacionados con la descripción de los datos, el análisis de las muestras, la contrastación de hipótesis y la evaluación de las predicciones.
           .col-lg-4.col-8.mb-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema1/3.png' alt='Imagen decorativa')
@@ -59,13 +58,13 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10.col-12.mb-5
-        //- .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-        //-   h5 Figura 1.
-        //-   span <i>Marketing Mix - 4 P´s</i> 
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 1.
+          span <i>Análisis de la información</i> 
         figure.desktop(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/5.svg' alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/5.svg' alt='Imagen que contiene los tres aspectos presentes en el análisis de la información, los cuales son: 1.	 Recolección y organización de datos. 2.	 Tratamientos de la información. 3.	 Análisis ajustado a los objetivos propuestos.')
         figure.movil(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/6.svg' alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/6.svg' alt='Imagen que contiene los tres aspectos presentes en el análisis de la información, los cuales son: 1.	 Recolección y organización de datos. 2.	 Tratamientos de la información. 3.	 Análisis ajustado a los objetivos propuestos.')
     
     .row.justify-content-center.mb-4
       p(data-aos="fade-left") Para lograrlo, es necesario conocer en qué consiste la tabulación de los datos y cómo hacerlo correctamente, ya que esto permitirá adquirir herramientas con las cuales podrá crear un panorama descriptivo de la situación de interés; gracias a la interpretación de los resultados obtenidos en la tabulación, se pueden conocer, por ejemplo: los gustos o intereses de una población o las necesidades del mercado de un sector, entre otros factores.
@@ -80,7 +79,7 @@
             p(data-aos="fade-left") Como bien se dice: ¨La información es poder¨, pero no representa una ventaja tener una gran cantidad si esta no está ordenada y estructurada de una manera adecuada, que permita un análisis con herramientas que ayuden en la planificación de estrategias o la toma de decisiones más acertadas.
             p(data-aos="fade-left") En este sentido, la tabulación de datos es un primer proceso  dentro del análisis de la información, en el que se definen los criterios por medio de los cuales se procederá a organizar los datos, tras su recolección; para ello, se realizan cuadros o tablas en las que se consignarán de manera organizada y acorde a los criterios previamente definidos, dichos datos.
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in") 
-          p Con este proceso y siempre que se haga de manera eficiente, se obtendrán los resultados presentes en las tablas que permitirán evidenciar, entre otras cosas: las relaciones existentes entre las diferentes variables que fueron objeto de la necesidad del análisis. Para esto es necesario construir las tablas en las cuales se van a consignar los datos con base en criterios bien definidos previamente por los especialistas, lo cual permitirá utilizar dichos datos de manera útil y efectiva. 
+          p Mediante este proceso, y siempre que se realice de manera eficiente, se obtendrán resultados que se reflejarán en las tablas. Estas tablas permitirán evidenciar, entre otras cosas, las relaciones existentes entre las variables que fueron objeto de análisis. Para ello, es necesario construir las tablas en las cuales se registrarán los datos según criterios previamente definidos por especialistas. Esta práctica garantizará el uso útil y efectivo de los datos obtenidos. 
 
     .row.justify-content-center.mb-4
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
@@ -93,23 +92,23 @@
             br
 
     .row.justify-content-center.mb-4
-      p(data-aos="fade-left") Para lograr lo anterior, es preciso definir los criterios bajo los cuales se procederá con la recolección de la información; para ello, es necesario identificar el tipo de variables que van a ser objeto del análisis, entendiéndose por variable a aquellas características o cualidades comunes que se reconocen en una población y pueden ser medibles o cuantificables, según las características que las definan.
+      p(data-aos="fade-left") Para alcanzar lo mencionado, es esencial establecer los criterios para la recolección de información. Esto implica identificar el tipo de variables que serán objeto de análisis. Por variable, nos referimos a las características o cualidades comunes que se reconocen en una población y que pueden ser medidas o cuantificadas según sus atributos definitorios.
 
     .row.justify-content-center.mb-5
       .col-lg-10.col-12.mb-5
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-           h5 Figura 1.
+           h5 Figura 2.
            span <i>Tipos de variables</i> 
         figure.desktop(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/9.svg' alt='PTE TEXTO ALTERNATIVO')
+          img(src='@/assets/curso/temas/tema1/9.svg' alt='Esquema que hace relación de los dos tipos de variables y las que las representan; dichos tipos son: Cuantitativas (discreta, continua). Cualitativas (nominal, ordinaria, binaria).')
         figure.movil(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/10.svg' alt='PTE TEXTO ALTERNATIVO')
+          img(src='@/assets/curso/temas/tema1/10.svg' alt='Esquema que hace relación de los dos tipos de variables y las que las representan; dichos tipos son: Cuantitativas (discreta, continua). Cualitativas (nominal, ordinaria, binaria).')
 
     .row.justify-content-center.mb-4
       p(data-aos="fade-left") Las variables cualitativas describen las cualidades, circunstancias o características de los elementos de la población de estudio sin hacer uso de números, así, estas variables permiten expresar una característica, atributo o categoría no numérica, por ejemplo: el sexo de los estudiantes de un colegio. Para dar claridad al tema se muestra en el siguiente contenido algunos tipos:
 
     .row.justify-content-center.mb-4
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
@@ -117,6 +116,7 @@
           h2.text-center Nominal
           p.text-center Variable que no puede ser representada por números y no ofrecen ningún tipo de orden, por tanto, matemáticamente es menos precisa, ejemplo: las profesiones.
 
+      .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
@@ -124,12 +124,15 @@
           h2.text-center Ordinaria
           p.text-center Este tipo de variable, aunque no puede ser cuantificada, si ofrece un orden en su categorización, ejemplo: el nivel socioeconómico.
 
+      .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/13.svg' alt='AvatarTop')
           h2.text-center Binaria
           p.text-center La variable cualitativa binaria agrupa valores específicos el tipo binario, ejemplo: el sexo.
+          br
+          br
 
     .row.justify-content-center.mb-4
       p(data-aos="fade-left") Por otro lado, se encuentran las variables cuantitativas, las cuales ofrecen un resultado o valor numérico, lo que facilita su representación mediante diagramas o gráficos que reflejan su comportamiento frente a condiciones establecidas, estas también cuentan con sus respectivos tipos que son:
@@ -151,9 +154,9 @@
             caption Referencia Tabla - Norma APA
             thead
               tr
-                th Formulación y preparación
-                th Evaluación
-                th Evaluación
+                th Variable / Tipo
+                th Variable cualitativa
+                th Variable cuantitativa
             tbody.text-center
               tr
                 td Tipo de cabello (liso, crespo, ondulado).
@@ -177,15 +180,15 @@
                 td 
     
     .row.justify-content-center.mb-4
-      p(data-aos="fade-left") En síntesis, la tabulación de la información consiste, por tanto, en presentar los datos estadísticos en forma de tablas o cuadros de una manera visualmente atractiva, concisa y directa, con el objetivo de que resulten sencillos de leer y comprender.
-      p(data-aos="fade-left") Gracias a la tabulación de la información, se facilita de manera considerable la comprensión, el análisis y la interpretación de los datos para poder llevar a cabo comparaciones y llegar, de esta manera, a conclusiones válidas que ayudarán a las organizaciones en la toma de decisiones respecto a sus proyectos, o en la identificación y solución de una problemática.
+      p(data-aos="fade-left") En resumen, la tabulación de la información implica presentar los datos estadísticos en forma de tablas o cuadros de manera visualmente atractiva, concisa y directa. El objetivo es que resulten fáciles de leer y comprender.
+      p(data-aos="fade-left") Gracias a esta técnica, se facilita considerablemente la comprensión, el análisis y la interpretación de los datos. Esto permite realizar comparaciones y llegar a conclusiones válidas, lo que ayuda a las organizaciones en la toma de decisiones sobre sus proyectos, así como en la identificación y solución de problemas.
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Herramientas ofimáticas
 
     .row.justify-content-center.mb-4
       .col-lg-10.col-12.mb-3
-        .cajon.color-primario.p-4.mb-4(data-aos="zoom-in") Se definen como herramientas ofimáticas, al conjunto de técnicas sistematizadas, aplicaciones y programas informáticos que sirven al propósito del análisis de información, en el sentido de que están diseñados con el propósito de optimizar, automatizar y mejorar los procedimientos aplicados en la recopilación, organización, interpretación y presentación de datos. 
+        .cajon.color-primario.p-4.mb-4(data-aos="zoom-in") Las herramientas ofimáticas se definen como un conjunto de técnicas sistematizadas, aplicaciones y programas informáticos diseñados para el análisis de información. Su propósito es optimizar, automatizar y mejorar los procedimientos utilizados en la recopilación, organización, interpretación y presentación de datos.
         .row.justify-content-center.align-items-center
           .col-lg-2.col-5.mb-3
             figure(data-aos="zoom-in")
@@ -203,7 +206,7 @@
             .tarjeta.color-acento-botones.p-4(x="41.2%" y="37.3%" numero="+")
               .h5.mb-2 Gestión de grandes volúmenes de datos
               p Los programas de análisis son capaces de administrar grandes cantidades de datos sin importar su variedad, estos son limitados dependiendo de la población o conjunto de individuos a quien va dirigido el análisis, por ejemplo: los algoritmos en redes sociales pueden parametrizarse para que reciban datos de un grupo de información sectorizado, estos parámetros son definidos por el interesado y los criterios que definan, determinan el volumen de datos que recibirán.
-              p Estos <i>softwar</i> tienen la funcionalidad de procesar tanto datos estructurados, como no estructurados, provenientes tanto de sensores, unidades móviles, páginas web y redes sociales más rápido y preciso que los métodos tradicionales como los manuales.
+              p Estos <i>softwares</i> tienen la funcionalidad de procesar tanto datos estructurados, como no estructurados, provenientes tanto de sensores, unidades móviles, páginas web y redes sociales más rápido y preciso que los métodos tradicionales como los manuales.
             .tarjeta.color-acento-botones.p-4(x="76.9%" y="45.8%" numero="+")
               .h5.mb-2 Obtener información comercial valiosa
               p Estas herramientas permiten a las organizaciones recopilar información y analizar e interpretar para poder entre otros procesos: explorar nuevas fuentes de ingreso, identificar fallos en los flujos de trabajo y estudiar modelos pasados para predecir necesidades en el futuro.
@@ -275,7 +278,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Estimado aprendiz, se presenta un documento denominado ¨Propuesta de una herramienta de Business Intelligence para mejorar la gestión comercial en una empresa de la industria pesquera¨ el cual se encuentra en la sección de material complementario y que desarrolla la experiencia de una organización en el Perú que busca mejorar la gestión comercial, para lo cual parte del análisis de datos por un periodo de tiempo, que le permite tomar decisiones que impactan el área de ventas de la empresa.
+          p Estimado aprendiz, se presenta un documento denominado "Propuesta de una herramienta de Business Intelligence para mejorar la gestión comercial en una empresa de la industria pesquera" el cual se encuentra en la sección de material complementario y que desarrolla la experiencia de una organización en el Perú que busca mejorar la gestión comercial, para lo cual parte del análisis de datos por un periodo de tiempo, que le permite tomar decisiones que impactan el área de ventas de la empresa.
       
       
 </template>
@@ -299,22 +302,6 @@ export default {
           'Esta variable puede ofrecer un valor de cualquier intervalo o medición, tales como: resultados que involucren medidas entre escalas, que están representadas en valores decimales, por lo que su medida será mucho más específica, por ejemplo: el costo de fabricación de un producto,  el rango de precios del mercado, o edades de una población, etc.',
         imagen: require('@/assets/curso/temas/tema1/15.png'),
         // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo:
-          'Never, never assume that what you have achieved is good enough',
-        texto:
-          'Your rapidograph pens are dried up, the x-acto blades in your bag are rusty, and your mind is dull. Stop clicking your mouse, get messy, go back to the basics and make something original.',
-        imagen: require('@/assets/template/img-placeholder.svg'),
-        leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo:
-          'Never, never assume that what you have achieved is good enough',
-        texto:
-          'Your rapidograph pens are dried up, the x-acto blades in your bag are rusty, and your mind is dull. Stop clicking your mouse, get messy, go back to the basics and make something original.',
-        imagen: require('@/assets/template/img-placeholder.svg'),
-        leyendaImagen: 'Leyenda de la imagen',
       },
     ],
   }),
