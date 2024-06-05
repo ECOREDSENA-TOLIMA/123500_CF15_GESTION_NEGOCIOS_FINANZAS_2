@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
           h2 Estrategias de mercado y algo más…
-        p.mb-4 Objetivo	Analizar la información digital y desarrollar estrategias de mercado que le permitan crear un plan de marketing efectivo en cualquier empresa según los objetivos y las políticas organizacionales.
+        p.mb-4 Analizar la información digital y desarrollar estrategias de mercado que le permitan crear un plan de marketing efectivo en cualquier empresa según los objetivos y las políticas organizacionales.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

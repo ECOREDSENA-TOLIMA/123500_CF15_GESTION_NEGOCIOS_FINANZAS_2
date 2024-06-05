@@ -166,7 +166,7 @@
     
     .row.justify-content-center.mb-4
       .h4.mb-4(data-aos="zoom-down-right")
-        span.titulo-herramientas(style="color: #0C5E46") h4 C. La intención estratégica
+        span.titulo-herramientas(style="color: #0C5E46") C. La intención estratégica
 
     .row.mb-4
       p(data-aos="fade-left") Esta hace énfasis a la intención de los gerentes de la corporación a comprometerse en todos los niveles para encabezar un sistema directivo con características que contribuyan a mantener y fortalecer el pensamiento estratégico y la actitud estratégica; del mismo modo, el direccionamiento estratégico basa su estructura en la definición de cuatro componentes principales que son:
@@ -255,7 +255,7 @@
         p(data-aos="fade-left") Con el desarrollo de las nuevas tecnologías de la información, resulta incuestionable evidenciar la manera como estos avances han influido en la vida del hombre, llegando incluso a condicionar aspectos tan relevantes para este, como la manera en que se relaciona, se comunica y satisface sus necesidades básicas como comprar.
         p(data-aos="fade-left") Todas estas condiciones han creado un nuevo universo digital de interacciones que ofrecen nuevas posibilidades a las que las organizaciones no son ajenas, puesto que, conociendo las herramientas adecuadas, les pueden significar hacerse acreedoras de importantes ventajas comerciales y competitivas. 
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Desde este contexto, se habla del <i><i>E-commerce</i></i> para referirse al conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia ejecutar operaciones de compra, venta y distribuciones de bienes y servicios, haciendo uso de redes computacionales, específicamente la internet.  
+          p Desde este contexto, se habla del <i><i>e-commerce</i></i> para referirse al conjunto de relaciones comerciales establecidas por varios individuos que buscan en esencia ejecutar operaciones de compra, venta y distribuciones de bienes y servicios, haciendo uso de redes computacionales, específicamente la internet.  
     
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
@@ -306,7 +306,7 @@
                 | Sistemas de recolección de datos para el estudio de mercados.
     
     .row.mb-4
-      p(data-aos="fade-left") Por esto el <i>E-commerce</i> implica desde ordenar contenidos digitales para consumo inmediato,  los cuales son descargados a la computadora del consumidor, hasta adquirir bienes y servicios convencionales, pasando por meta servicios que serían los que facilitan otro tipo de servicios.
+      p(data-aos="fade-left") Por esto el <i>e-commerce</i> implica desde ordenar contenidos digitales para consumo inmediato,  los cuales son descargados a la computadora del consumidor, hasta adquirir bienes y servicios convencionales, pasando por meta servicios que serían los que facilitan otro tipo de servicios.
       p(data-aos="fade-left") Por lo que se puede observar en estos procesos es muy importante el intercambio de datos financieros, para facilitar negocios nacionales e internacionales, en estos casos, es importante garantizar la integridad y seguridad de los datos almacenados. 
     
     .row.justify-content-center.mb-4
@@ -321,7 +321,7 @@
                   p El crecimiento de este tipo de negocios ha sido notable en los últimos dos años. Desde personas que venden productos artesanales desde sus hogares a través de plataformas de venta hasta gigantes digitales que ofrecen una amplia variedad de productos al por menor, el mercado ha experimentado una expansión significativa.
     
     .row.mb-4
-      p(data-aos="fade-left") Pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus formas de mercado para atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago y los canales que facilitan la interacción entre cliente y vendedor, todo esto lleva al desarrollo de diferentes modelos de <i>E-commerce</i>, entre los que se destacan los siguientes:
+      p(data-aos="fade-left") Pero dada la naturaleza cambiante del ambiente digital, los negocios deben actualizar sus formas de mercado para atender diferentes necesidades relacionadas con las fuentes de ingresos, las formas de pago y los canales que facilitan la interacción entre cliente y vendedor, todo esto lleva al desarrollo de diferentes modelos de <i>e-commerce</i>, entre los que se destacan los siguientes:
 
     .row.justify-content-center.mb-4
       LineaTiempoE.color-acento-contenido(data-aos="zoom-in")
@@ -339,7 +339,7 @@
               img(src='@/assets/curso/temas/tema2/28.png', alt='Imagen decorativa')
               figcaption Empresa a empresa
           .col-lg-6.mb-4.mb-lg-0
-            p Bajo este modelo, una empresa compra bienes o servicios de otra empresa. Las ventas en línea de este tipo tienden a ser más complejas que otras formas de <i>eCommerce</i>, ya que ofrecen productos complejos de vender.
+            p Bajo este modelo, una empresa compra bienes o servicios de otra empresa. Las ventas en línea de este tipo tienden a ser más complejas que otras formas de <i>e-commerce</i>, ya que ofrecen productos complejos de vender.
         
         .row(titulo="Empresa a consumidor (B2C)")
           .col-lg-6.mb-4.mb-lg-0
@@ -424,7 +424,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Como parte de su aprendizaje autónomo le invito a revisar el documento ¨Impacto del personal de contacto y satisfacción del cliente en <i><i>E-commerce</i></i>¨ el cual se encuentra ubicado en la sección materiales complementarios, con el fin de puntualizar algunas pautas importantes en un tema clave en la gestión comercial del presente.
+          p Como parte de su aprendizaje autónomo le invito a revisar el documento ¨Impacto del personal de contacto y satisfacción del cliente en <i><i>e-commerce</i></i>¨ el cual se encuentra ubicado en la sección materiales complementarios, con el fin de puntualizar algunas pautas importantes en un tema clave en la gestión comercial del presente.
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Gestión comercial
