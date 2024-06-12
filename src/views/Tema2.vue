@@ -83,6 +83,7 @@
         img(src='@/assets/curso/temas/tema2/8.svg' alt='Imagen decorativa')
               
 
+    separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Direccionamiento estratégico
     
@@ -245,6 +246,7 @@
       .tarjeta.tarjeta--azul
         SlyderB.mb-5.p-4(:datos="datosSlyder")
     
+    separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 <i><i>E-commerce</i></i>
     .row.justify-content-center.mb-4
@@ -418,7 +420,7 @@
     .row.mb-4
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/NhY2ef8XGW8?si=5ja8h__MU3XtvRLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 
     .row.justify-content-center.mb-4
@@ -426,6 +428,7 @@
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
           p Como parte de su aprendizaje autónomo le invito a revisar el documento ¨Impacto del personal de contacto y satisfacción del cliente en <i><i>e-commerce</i></i>¨ el cual se encuentra ubicado en la sección materiales complementarios, con el fin de puntualizar algunas pautas importantes en un tema clave en la gestión comercial del presente.
 
+    separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Gestión comercial
     
@@ -526,6 +529,7 @@
       figure.movil(data-aos="zoom-in")
         img(src='@/assets/curso/temas/tema2/44.svg' alt='Imagen decorativa')
 
+    separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Plan de mercado
     
@@ -742,6 +746,7 @@
         figure.movil(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/64.svg' alt='Figura que hace relación de la distribución de un plan de mercado, la cual parte de los tipos de marketing: analítico, estratégico y operativo.')
 
+    separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5 Costos y gastos
     

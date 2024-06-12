@@ -50,6 +50,7 @@
                   p Es necesario aclarar que el tratamiento estadístico que se le vaya a dar a la información dependerá del contexto cuantitativo o cualitativo de los datos, de la escala de medida para las variables, de la obtención de las hipótesis y de los objetivos fijados. 
 
 
+    separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Tabulación
 
@@ -95,7 +96,7 @@
       p(data-aos="fade-left") Para alcanzar lo mencionado, es esencial establecer los criterios para la recolección de información. Esto implica identificar el tipo de variables que serán objeto de análisis. Por variable, nos referimos a las características o cualidades comunes que se reconocen en una población y que pueden ser medidas o cuantificadas según sus atributos definitorios.
 
     .row.justify-content-center.mb-5
-      .col-lg-10.col-12.mb-5
+      .col-lg-8.col-12.mb-5
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
            h5 Figura 2.
            span <i>Tipos de variables</i> 
@@ -111,25 +112,25 @@
       .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-6
               img(src='@/assets/curso/temas/tema1/11.svg' alt='AvatarTop')
-          h2.text-center Nominal
+          h4.text-center Nominal
           p.text-center Variable que no puede ser representada por números y no ofrecen ningún tipo de orden, por tanto, matemáticamente es menos precisa, ejemplo: las profesiones.
 
       .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-6
               img(src='@/assets/curso/temas/tema1/12.svg' alt='AvatarTop')
-          h2.text-center Ordinaria
+          h4.text-center Ordinaria
           p.text-center Este tipo de variable, aunque no puede ser cuantificada, si ofrece un orden en su categorización, ejemplo: el nivel socioeconómico.
 
       .col-lg-4.col-12
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-6
               img(src='@/assets/curso/temas/tema1/13.svg' alt='AvatarTop')
-          h2.text-center Binaria
+          h4.text-center Binaria
           p.text-center La variable cualitativa binaria agrupa valores específicos el tipo binario, ejemplo: el sexo.
           br
           br
@@ -183,6 +184,7 @@
       p(data-aos="fade-left") En resumen, la tabulación de la información implica presentar los datos estadísticos en forma de tablas o cuadros de manera visualmente atractiva, concisa y directa. El objetivo es que resulten fáciles de leer y comprender.
       p(data-aos="fade-left") Gracias a esta técnica, se facilita considerablemente la comprensión, el análisis y la interpretación de los datos. Esto permite realizar comparaciones y llegar a conclusiones válidas, lo que ayuda a las organizaciones en la toma de decisiones sobre sus proyectos, así como en la identificación y solución de problemas.
     
+    separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Herramientas ofimáticas
 
