@@ -271,9 +271,65 @@
               p Crean modelos estadísticos con los que pueden imitar las operaciones de los procesos o sistemas reales.
 
     .row.justify-content-center.mb-4
-      p(data-aos="fade-left") Actualmente existe una gran variedad de estos <i>software</i> de análisis estadístico en el mercado, incluso muchos ofrecen sus servicios de manera gratuita, tanto como son variados, así mismo es la cantidad de cualidades y servicios que ofrecen, incluso los más modernos tienen multitud de tareas, desde representaciones y cálculos sencillos, hasta modelado estadístico y análisis de alto espectro; por esa razón, a continuación, se hace la presentación de uno de los más conocidos en el siguiente video:
+      p(data-aos="fade-left") Actualmente existe una gran variedad de estos <i>software</i> de análisis estadístico en el mercado, incluso muchos ofrecen sus servicios de manera gratuita, tanto como son variados, así mismo es la cantidad de cualidades y servicios que ofrecen, incluso los más modernos tienen multitud de tareas, desde representaciones y cálculos sencillos, hasta modelado estadístico y análisis de alto espectro; por esa razón, a continuación, se hace la presentación de uno de los más conocidos:
+
 
     .row.justify-content-center.mb-4
+      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1_")(data-aos="zoom-in")
+        .row(titulo="Evolución")
+          .col-md-6.mb-4.mb-md-0
+            p A través de los tiempos el hombre se ha visto impulsado a investigar el comportamiento del humano y de este en la sociedad, lo cual se ha ido especializando en varias ramas de las ciencias sociales como son: la antropología, la psicología, la sociología, la pedagogía, la economía, el derecho y la política, entre otras.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
+
+        .row(titulo="<i>Software</i> estadístico")
+          .col-md-6.mb-4.mb-md-0
+            p Por otro lado, paralelamente se han ido acumulando mucha información mediante estos procesos de investigación lo que ha generado grandes cantidades de datos digitales que han tenido que irse sistematizando, por lo que hoy en día, cualquier persona que requiera analizar tanta información necesariamente debe contar con una herramienta informática o un software estadístico para el manejo de la información.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/26.png', alt='Texto que describa la imagen')
+
+        .row(titulo="SPSS")
+          .col-md-6.mb-4.mb-md-0
+            p Uno de los más conocidos es el <i>Statistical Package for the Social Science</i> SPSS [Paquete Estadístico para las Ciencias Sociales], que es un programa de análisis estadístico, el cual se caracteriza por su capacidad para trabajar con grandes grupos de bases de datos, además de contar con una sencilla interfaz para la programación de la mayoría de los análisis.
+
+            p Dicho programa fue en principio usado únicamente en las investigaciones de las ciencias sociales y en las ciencias aplicadas, pero actualmente ha venido siendo adaptado a múltiples campos para el estudio estadístico de datos, especialmente en el ámbito de la investigación de mercado.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/27.png', alt='Texto que describa la imagen')
+
+        .row(titulo="¿Cómo funciona?")
+          .col-md-6.mb-4.mb-md-0
+            p Este <i>software</i> proporciona a sus operadores herramientas que les permiten consultar datos y formular hipótesis de forma rápida, además ejecutar procedimientos para aclarar las relaciones entre variables e identificar tendencias y realizar predicciones, al tiempo que se puede realizar hojas de cálculo y gestionar bases de datos para procesarlas de modo dinámico dándoles un aspecto personalizado.
+
+            p En adición, con el SPSS se pueden generar informes atractivos sobre la investigación que se acaba de realizar, a la par que tolera la función de búsqueda inteligente con la que se puede obtener información oculta para la elaboración de segmentos de mercado.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/28.png', alt='Texto que describa la imagen')
+
+        .row(titulo="En resumen…")
+          .col-md-6.mb-4.mb-md-0
+            p A través de los tiempos el hombre se ha visto impulsado a investigar el comportamiento del humano y de este en la sociedad, lo cual se ha ido especializando en varias ramas de las ciencias sociales como son: la antropología, la psicología, la sociología, la pedagogía, la economía, el derecho y la política, entre otras.
+
+            p Puesto que, en un sentido práctico, el análisis de datos dentro de un proceso de mejoramiento en el volumen de ventas le aportará información clave referente a aspectos como: la percepción que tiene el público del producto y sus preferencias respecto al precio, entre otras cosas, datos con la que podrá identificar los aspectos a mejorar y sobre las cuales puede tomar las mejores decisiones en un momento dado.
+        
+          .col-md-6.mb-3.desktop
+            figure
+              img(src='@/assets/curso/temas/tema1/29.svg', alt='Texto que describa la imagen')
+          .col-md-6.mb-3.movil
+            figure
+              img(src='@/assets/curso/temas/tema1/29_.svg', alt='Texto que describa la imagen')
+          .col-lg-12.order-3.mt-4
+            .BG01.p-4
+              p.mb-0  El anterior camino del ser humano ha tenido que ser investigado por lo que han quedado datos que se han ido sistematizado mediante herramientas o software estadístico.
+
+
+    //-.row.justify-content-center.mb-4
       figure.mb-5(data-aos="zoom-in")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

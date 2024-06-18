@@ -492,9 +492,77 @@
         img(src='@/assets/curso/temas/tema2/42.svg' alt='Imagen decorativa')
     
     .row.mb-4
-      p(data-aos="fade-left") Dada la claridad de los ejes sobre los cuales debe construirse la estrategia comercial, los administradores de la gestión comercial deben proceder a estructurar su plan de trabajo. Esta tarea implica integrar áreas de la organización a las que se asignan aspectos específicos sobre los cuales deben desarrollar actividades que, aunque separadas, su articulación es importante para estructurar el plan de gestión comercial. Dichas áreas deben enfocarse en los siguientes puntos descritos en el video:
+      p(data-aos="fade-left") Dada la claridad de estos ejes sobre los que se debe construir la estrategia comercial, los administradores de la gestión comercial deben proceder a estructurar su plan de trabajo, tarea en la que se debe integrar áreas de la organización a las que se asignan aspectos específicos sobre los cuales deben desarrollar actividades que, aunque separadas, su articulación es importante para estructurar el plan de gestión comercial. Dichas áreas deben enfocarse de la siguiente manera:
     
-    .row.mb-4
+    
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.p-5(style="background-color:#0C5E46")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/73.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center(style="color: #FFFFFF") Área de planeación estratégica
+        p(style="color: #FFFFFF") Encargada de la definición de objetivos (claros, alcanzables, medibles y enmarcados en un periodo de tiempo definido), las metas y la estrategia corporativa que servirá de guía a la demás área…Aquí es importante partir de un DOFA.
+
+      .col-md.tarjeta.p-5(style="background-color:#03386E")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/74.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center(style="color: #FFFFFF") Área de gestión de ventas
+        p(style="color: #FFFFFF") Encargada de proponer las técnicas de producción, venta y distribución, de modo que modula y agrupa las actividades necesarias para llevar el producto final al cliente.
+
+      .col-md.tarjeta.color.p-5(style="background-color:#6DEBFF")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/75.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center Área de gestión de <i>marketing</i>
+        p Encargada del análisis del entorno comercial sobre el que se mueve la organización, la situación del mercado y su posición respecto a la competencia. Además, define propuestas dirigidas al área de gestión de ventas en las que, de acuerdo al entorno (local, nacional e internacional), le sugiere características que deben ser tenidas en cuenta para la elaboración de los procesos de venta y los aspectos del producto: promoción, puntos de venta, distribución, etc.
+
+    .row.justify-content-center 
+      .col-lg-10.col-12
+        p Ahora bien, un factor a tener en cuenta es el cliente, por lo que está área cobra gran valor y por ello, se debe tener en cuenta lo siguiente:
+        hr(style="background-color:#0C5E46")
+        .row.justify-content-center
+          .col-lg-2.col-5
+            figure
+              img(src='@/assets/curso/temas/tema2/76.svg', alt='')
+          .col-lg-10.col-7
+            h4 Área de gestión de clientes
+            p Esta área se encarga de hacer seguimiento a las interacciones del cliente con la empresa en cada uno de los procesos de mercado, desde la prospección hasta la postventa, de modo que se encarga de reunir datos y sugerencias respecto a esta relación con las que ajustará estrategias para lograr la plena satisfacción del cliente y asegurar su lealtad con la marca.
+        hr(style="background-color:#0C5E46")
+        .row.justify-content-center
+          .col-lg-2.col-5
+            figure
+              img(src='@/assets/curso/temas/tema2/77.svg', alt='')
+          .col-lg-10.col-7
+            h4 Área de gestión de fuerza en las ventas
+            p Es la encargada de la elaboración de planes de capacitación y motivación del equipo de ventas, puesto que una buena capacitación asegura un equipo de ventas competente y eficiente. 
+        hr(style="background-color:#0C5E46")
+        .row.justify-content-center
+          .col-lg-2.col-5
+            figure
+              img(src='@/assets/curso/temas/tema2/78.svg', alt='')
+          .col-lg-10.col-7
+            h4 Área de soporte
+            p Es el área de apoyo de las demás, se encarga de brindar soluciones respecto a problemas estructurales en los procesos, entre estas encontramos sistemas, tecnología, logística, entre otras.
+        hr(style="background-color:#0C5E46")
+
+        .row.mb-4
+          .cajon.color-primario.p-4.mb-4(data-aos="zoom-in")
+            .row.justify-content-around.align-items-center
+              .col-lg-11
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    p Como puede ver una empresa del siglo XXI que no cuente con este equipo de trabajo, ya sea como parte de la organización o por servicios externos, no prospera.
+
+    
+    
+    //-.row.mb-4
       figure(data-aos="zoom-in")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
