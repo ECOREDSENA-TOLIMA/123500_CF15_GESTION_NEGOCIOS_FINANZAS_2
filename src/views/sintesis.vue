@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen decorativa")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Mapa conceptual que resume de manera puntual la temática abordada en este componente formativo, destacando que para que haya un adecuado mercadeo estratégico y costeo de la gestión comercial, se debe tener en cuenta el análisis de la información y el direccionamiento estratégico.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
